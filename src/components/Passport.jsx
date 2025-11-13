@@ -303,7 +303,7 @@ export default function AkbarTravelsCard() {
           <svg className="at-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
             <path d="M12 3v14m0 0 4-4m-4 4-4-4M4 21h16" stroke="#ffffff" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"/>
           </svg>
-          SAVE MY CONTACT
+          SAVE CONTACT
         </button>
 
         {/* Download PNG */}

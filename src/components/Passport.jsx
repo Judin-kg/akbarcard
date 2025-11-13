@@ -264,7 +264,7 @@ export default function AkbarTravelsCard() {
       </div>
 
       <header className="at-head">
-        <div className="at-title">AKBAR TRAVELS</div>
+        <div className="at-title">AKBAR---TRAVELS</div>
         <div className="at-subtitle">MARIHA TOURS &amp; TRAVELS</div>
         <div className="at-caption">(FRANCHAISE OF AKBAR TRAVELS)</div>
       </header>
